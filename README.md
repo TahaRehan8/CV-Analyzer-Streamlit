@@ -64,18 +64,6 @@ streamlit run app.py
 This will spin up a local development server and automatically open the application in your default browser at `http://localhost:8501`.
 
 ---
-
-## ☁️ Deploying to Streamlit Community Cloud (Free)
-
-Deploying takes less than 2 minutes and is completely free:
-
-1. Push this project to your public GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io/) and log in with your GitHub account.
-3. Click **New App**, select your repository name, and set the Main File Path to `app.py`.
-4. Click **Deploy!** 🚀
-
----
-
 ## ⚙️ App Tech Stack
 
 *   **Frontend & UI**: Streamlit
